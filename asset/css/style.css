@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('components/navbar.css');
+@import url('components/components.css');
+@import url('components/image.css');
+@import url('components/presentation.css');
+@import url('components/animation.css');
+@import url('components/dark-mode.css');
+@import url('components/message.css');
+@import url('components/srollUp.css');
+@import url('components/text.css');
+
+
+*{
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+}
+html,
+
+body{
+    height: 100% !important;
+    font-family: 'Roboto Mono', monospace !important; 
+    
+}
+
